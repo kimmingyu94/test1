@@ -34,6 +34,15 @@ sudo 슈퍼유저권한 대행
 su 유저 변경
 vim 편집기
 ```
+#### git 명령어
+```
+git clone https://github.com/kimmingyu94/yoga  (명령어 git clone) 저장소 복사
+  git commit 변경사항 컴퓨터에 저장
+  git push
+  git add
+  git rm
+  git config
+```
 
 ### 깃허브 불러오는 방법
 ```
